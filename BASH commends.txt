@@ -1,0 +1,11 @@
+cd  - change directory
+
+pwd - print working directory
+
+mkdir - make direction (stworz folder) 
+
+ls - wypisuje zawartosc katalogu
+
+echo - wypisuje w konsoli tekst
+	echo 'text' > 'nazwa_pliku'  - wpisuje tekst do pliku
+	UWAGA! w przypadku gdy plik nie istnieje, zostanie stworzony, ale gdy istnieje JEGO ZAWARTOSC ZOSTANIE PODMIENIONA

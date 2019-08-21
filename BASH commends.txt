@@ -1,4 +1,7 @@
 cd  - change directory
+	cd ~ - home directory
+
+.bashrc - plik w ktorym znajduja sie rozne aliasy, mozemy je wiec dodawac po otworzeniu np uzywajac subl .bashrc
 
 pwd - print working directory
 

@@ -12,5 +12,4 @@ echo - wypisuje w konsoli tekst
 
 cat '' - wyswietlenie zawartosci pliku w wierszu polecen
 	-n numeruje linie 
-	
-small changes for remote exercises
+

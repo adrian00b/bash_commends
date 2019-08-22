@@ -16,7 +16,8 @@ echo - wypisuje w konsoli tekst
 cat '' - wyswietlenie zawartosci pliku w wierszu polecen
 	-n numeruje linie 
 
+
 mv 'file1' 'file2' - change name of file1 to file2
 mv 'directory' 'directory' - mozna przeniesc katalog albo plik z jednego directory do drugiego
 	
-small changes for remote exercises
+

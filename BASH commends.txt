@@ -3,6 +3,8 @@ cd  - change directory
 
 .bashrc - plik w ktorym znajduja sie rozne aliasy, mozemy je wiec dodawac po otworzeniu np uzywajac subl .bashrc
 
+gdy pierwszy raz : alias subl="/c/Program\ Files/Sublime\ Text\ 3/sublime_text.exe"'>> ~/.bashrc (nalezy dodac zmiany wpisujac ~/.bashrc)
+
 pwd - print working directory
 
 mkdir - make direction (stworz folder) 
